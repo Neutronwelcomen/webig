@@ -1,0 +1,94 @@
+body {
+    font-family: Courier New,monospace, sans-serif, Arial;
+    background: url(190408_01_303_fotopozadi_foto_2.png) no-repeat center center fixed;
+    background-size: cover;
+    color: #000000;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.kontejner {
+    max-width: 850px;
+    margin: auto;
+}
+
+.hlavicka {
+    text-align: center;
+    background: rgb(144, 209, 253);
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.profilovka {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #000000;
+}
+
+.hlavicka h1 {
+    margin: 10px 0;
+    color: #000000;
+}
+
+.karta {
+    background: #f2f2f2;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.karta h2 {
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.karta ul {
+    padding-left: 20px;
+}
+
+.mrizka-projektu {
+    display: grid;
+    margin: 15px;
+}
+
+.box {
+    background: #f2f5fa;
+    padding: 15px;
+
+    
+}
+
+.box h3 {
+    margin-bottom: 8px;
+    color: #000000;
+    text-align: center;
+    border: 2px solid rgb(223, 237, 247);
+}
+
+.paticka {
+    background: #f2f2f2;
+    padding: 25px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+.paticka h2 {
+    margin-bottom: 15px;
+}
+
+.odkazy {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 15px;
+    color: #000000;
+    text-decoration: none;
+}
+
+
+
+
